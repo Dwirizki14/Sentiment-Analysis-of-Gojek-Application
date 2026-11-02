@@ -1,3 +1,3 @@
-# Analisis-Sentimen-Aplikasi-Gojek
+# Sentiment Analysis of Gojek Application
 
-Proyek ini bertujuan untuk menganalisis opini pengguna terhadap layanan Gojek/Grab melalui data ulasan (review) yang diperoleh dari aplikasi atau sumber daring lainnya. Analisis sentimen dilakukan dengan menggunakan pendekatan Natural Language Processing (NLP) dan Machine Learning untuk mengklasifikasikan ulasan ke dalam kategori sentimen, seperti positif, negatif, atau netral.
+This project aims to analyze user opinions toward Gojek/Grab services through user review data collected from applications or other online sources. Sentiment analysis is performed using Natural Language Processing (NLP) and Machine Learning approaches to classify reviews into sentiment categories, such as positive, negative, or neutral.
